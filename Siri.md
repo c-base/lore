@@ -1,5 +1,3 @@
-Siri
-====
 Specs
 -----
 * zwei flügel
